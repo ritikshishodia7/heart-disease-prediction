@@ -84,4 +84,4 @@ This project is for educational purposes only and not a substitute for medical a
 
 ## Author
 
-Vasu Sharma
+Ritik Shishodia
